@@ -1,0 +1,13 @@
+"PALIBA" 
+Permet au visiteur de remplir un formulaire 
+puis inscrire les données du formulaire dans un petit log. 
+Enfin le visiteur est redirigé vers la page de votre choix...
+
+
+
+Pour faire redirigé le visiteur vers la page de votre choix ouvrez le fichier enreg.php puis changer fichier.ext par la page que vous souhaitez
+
+
+
+
+Si vous souhaitez changez les informations, comme par example titre du poeme, faite moi parvenir ceux que vous souhaitez changez envoyez vos information a webmasters.clikgratuit@caramail.com

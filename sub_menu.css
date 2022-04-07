@@ -1,0 +1,38 @@
+#lien-bouton{
+   color:grey;
+   font-family:verdana;
+   font-size:12px;
+   padding:5px 20px;
+   text-decoration:none;
+   background-image:url(img/untitled.png);
+   background-repeat:repaet-x;
+   background-position:top;
+   border:solid 1px grey;
+   border-radius:5px;
+}
+#lien-bouton:hover{
+	background-position: bottom;
+	border: 1px solid #000;
+	color: black;
+	width : 110%
+}
+
+
+  .gg ul {
+      list-style:none;  
+      padding:0; 
+      width: 150px; 
+     // border-top:1px solid;
+	 margin-left:7px ;
+	 
+  }
+  .gg li {  
+      width: 85%;
+      height: 1em;
+      border-bottom:1px solid;  
+  }
+  .gg a  {
+      display:block;  
+      width: 100%;
+      height: 100%;  
+  }
